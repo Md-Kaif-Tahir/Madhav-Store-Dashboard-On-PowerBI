@@ -80,7 +80,7 @@ The visionary team at **Madhav Store** has collaborated to create a vibrant dash
 - Displays customer choices among payment methods, emphasizing the popularity of COD and UPI. Understanding payment preferences is vital for a seamless customer experience.
 
 ### 6. Top Customer - Vertical Bar chart
--Customers with the highest number of sales done. Top 3 are Harivansh, Madhav, and Madan mohan.
+- Customers with the highest number of sales done. Top 3 are Harivansh, Madhav, and Madan mohan.
 
 ## Steps in Data Cleaning 🛠️🧹
 1. **Date Column Optimization:** In the 'orders' table, modified the 'order date' column data type from text to date. This enhances chart presentation, shifting the focus from daily to monthly profit analysis.
